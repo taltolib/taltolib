@@ -2,9 +2,9 @@
 
 **Flutter Developer** · Building cross-platform mobile experiences with Dart
 
-Junior mobile developer focused on crafting clean, user-centered apps.
-I care about performance, good architecture, and writing code that's easy to maintain.
-Currently deepening my skills in cross-platform development and UI design patterns.
+Junior Flutter Developer with hands-on experience in a real B2B environment.
+I focus on clean architecture, maintainable code, and smooth user experience.
+Currently working at GTS — where I also completed my internship.
 
 ---
 
