@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Talib 👋
 
 **Flutter Developer** · Building cross-platform mobile experiences with Dart
 
