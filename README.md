@@ -1,4 +1,4 @@
-# Hi, I'm Talib 👋
+# Hi, I'm Tolib 👋
 
 **Flutter Developer** · Building cross-platform mobile experiences with Dart
 
@@ -32,6 +32,6 @@ Currently working at GTS — where I also completed my internship.
 
 Check out my repositories — I build apps that solve real problems:
 
-- 🌱 **progress_app** — language learning app with progress tracking
+- 🌱 **progress_app_language_learnprogress_app_language_learn** — language learning app with progress tracking
 - 🎯 Goal: ship products that bring value to real users and businesses
 - 💬 Open to collaboration on open-source mobile projects
