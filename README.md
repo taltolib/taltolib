@@ -28,7 +28,10 @@ Currently working at GTS — where I also completed my internship.
 
 ---
 
-### 📊 GitHub Stats
+### 📱 My projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taltolib&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taltolib&layout=compact&hide_border=true)
+Check out my repositories — I build apps that solve real problems:
+
+- 🌱 **progress_app** — language learning app with progress tracking
+- 🎯 Goal: ship products that bring value to real users and businesses
+- 💬 Open to collaboration on open-source mobile projects
