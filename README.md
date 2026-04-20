@@ -21,7 +21,7 @@ Currently working at GTS — where I also completed my internship.
 
 ### 📌 What I'm up to
 
-- 🔭 Building my first production-ready mobile app
+- 🔭 Building my first production-ready mobile app 
 - 🌱 Learning state management (BLoC / Riverpod)
 - 🎯 Goal: ship 3 real projects by end of year
 - 💬 Open to collaboration on open-source mobile projects
