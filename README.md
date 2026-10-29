@@ -8,17 +8,6 @@
 
 Junior Full-Stack Developer with hands-on experience in a real B2B environment. I build backend services and APIs with Python and FastAPI, and the interfaces that work with them. I focus on clean architecture, maintainable code, and reliable solutions. Currently working at GTS, where I also completed my internship.
 
----
-
-### 📊 My stats
-
-[![taltolib's GitHub stats](https://github-readme-stats.vercel.app/api?username=taltolib&show_icons=true&theme=react)](https://github.com/taltolib)
-
-### 🔤 Top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taltolib&layout=compact&langs_count=6&theme=react)](https://github.com/taltolib)
-
----
 
 ### 🛠️ Languages and tools I work with
 
