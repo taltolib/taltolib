@@ -8,8 +8,9 @@
 
 Junior Full-Stack Developer with hands-on experience in a real B2B environment. I build backend services and APIs with Python and FastAPI, and the interfaces that work with them. I focus on clean architecture, maintainable code, and reliable solutions. Currently working at GTS, where I also completed my internship.
 
+---
 
-### 🛠️ Languages and tools I work with
+### Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
@@ -19,6 +20,4 @@ Junior Full-Stack Developer with hands-on experience in a real B2B environment. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" alt="SQLite" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
 </div>
