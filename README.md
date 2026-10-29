@@ -1,4 +1,4 @@
-# I'm Talib 
+<img width="464" height="327" alt="image" src="https://github.com/user-attachments/assets/ecbd0455-ded9-401f-af15-4ca378bc5a9a" /># I'm Talib 
 
 **Full-Stack Developer** · Flutter · Python · FastAPI
 
@@ -17,51 +17,46 @@ Junior Full-Stack Developer with hands-on experience in a real B2B environment. 
 **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javohirbekkhaydarov&label=Profile%20views&color=0e75b6&style=flat" width="210" alt="javokhirbekkhaydarov" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=taltolib&label=Profile%20views&color=0e75b6&style=flat" alt="taltolib profile views" />
+</p>
 
-### My stats
-[![javokhirbekkhaydarov's github stats](https://github-readme-stats.vercel.app/api?username=javokhirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats) <br/><br/>
+# Hi, I'm Tolib 👋
 
-### Coding time
-[![Javokhirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javokhirbekkhaydarov&show_icons=true&theme=react&langs_count=10)](https://github.com/javokhirbekkhaydarov/github-readme-stats) <br/><br/>
+**Full-Stack Developer** · Flutter · Dart · Python · FastAPI
 
-### Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=javokhirbekkhaydarov&layout=compact&langs_count=6&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats)
+Junior Full-Stack Developer with hands-on experience in a real B2B environment. I build mobile apps with Flutter and the backend services behind them with Python and FastAPI. I focus on clean architecture, maintainable code, and smooth user experience. Currently working at GTS — where I also completed my internship.
 
-### Languages and tools I work with:
-<br />
+---
+
+### 📊 My stats
+
+[![taltolib's GitHub stats](https://github-readme-stats.vercel.app/api?username=taltolib&show_icons=true&theme=react)](https://github.com/taltolib)
+
+### 🔤 Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taltolib&layout=compact&langs_count=6&theme=react)](https://github.com/taltolib)
+
+---
+
+### 🛠️ Languages and tools I work with
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="Dart" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="Firebase" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="32" alt="SQLite" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov vuetify logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov sass logo" />
-    <img width="12" />
-  <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height="32" alt="Javokhirbek Khaydarov Javohirbek Xaydarov vuex logo" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma" />
 </div>
 
-## Contact
-
-<br />
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;"><a href="https://t.me/javohirbeks_blog" style="text-decoration:none">📨 My telegram blog</a></td>
-    <td style="border: none;"><a href="https://t.me/javohirbeks_blog" style="text-decoration:none"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov telegram logo t.me/westdev" /></a></td>
-  </tr>
-</table>
-
+---
